@@ -1,0 +1,72 @@
+[
+  {
+    "type": "damage",
+    "name": "Scratch",
+    "value": 5
+  },
+  {
+    "type": "damage",
+    "name": "Evil Eyes",
+    "value": 10
+  },
+  {
+    "type": "damage",
+    "name": "Ninja Kick",
+    "value": 7
+  },
+  {
+    "type": "damage",
+    "name": "Slap",
+    "value": 3
+  },
+  {
+    "type": "damage",
+    "name": "Tornado Kick",
+    "value": 13
+  },
+  {
+    "type": "heal",
+    "name": "Lick",
+    "value": 5
+  },
+  {
+    "type": "heal",
+    "name": "Sleep",
+    "value": 10
+  },
+  {
+    "type": "heal",
+    "name": "Drink Milk",
+    "value": 7
+  },
+  {
+    "type": "heal",
+    "name": "Purring",
+    "value": 5
+  },
+  {
+    "type": "heal",
+    "name": "Poop",
+    "value": 3
+  },
+  {
+    "type": "steal",
+    "name": "Grim Reaper",
+    "value": 12
+  },
+  {
+    "type": "steal",
+    "name": "Proton Gun",
+    "value": 9
+  },
+  {
+    "type": "stun",
+    "name": "Blind Dog",
+    "value": 1
+  },
+  {
+    "type": "reflect",
+    "name": "Reverse Card",
+    "value": 1
+  }
+]

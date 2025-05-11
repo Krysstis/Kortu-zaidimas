@@ -1,0 +1,32 @@
+How to play:
+Objective of the Game: Your goal is to defeat the computer (dog) by using various cards that either reduce the dog's health or protect the cat's health. The first player to lose all their health points loses the game.
+
+Starting the Game:
+1. Each player (cat and dog) starts with 0 cards and a set number of health points;
+2. At the beginning of the game, two card decks are generated - one for the cat and one for the dog. Each deck contains both unique and repeated cards;
+3. The card decks will be shuffled and used during the card drawing phase.
+
+Gameplay:
+1. On each turn, players draw 3 new cards from their deck (cards are taken from the top of the deck);
+2. Players cannot have more than 5 cards in their hand;
+3. Players choose one card from their hand and use it - the card's effect is triggered (e.g., dealing damage to the opponent, healing the player, causing the opponent to skip their turn, etc.);
+4. After using a card, one random card is discarded from each player's hand;
+5. If there are not enough cards left in the deck, it will be shuffled and used again.
+
+Card Types:
+1. Heal - a card that restores health to the player;
+2. Dmg - a card that reduces the opponent's health;
+3. Steal - steal the opponent's health (reduces opponent's (dogs or cats) health and adds that health to the player who used the card);
+4. Stun - stuns the opponent, making them skip a turn;
+5. Reflect - reverses the opponents used card against him (only works with 'bad' cards, that affect opponent, heal cards won't work).
+
+Using Cards:
+1. Players select a card and use it, triggering the card's effect;
+2. After each turn, one random card is discarded from the player's hand to ensure there are always 5 cards in hand (if the player does not have too many cards).
+
+Game End:
+The game ends when a player loses all their health points. That player loses the game.
+
+Additional Features:
+1. Cards are drawn and discarded automatically according to the game rules;
+2. Each player has the opportunity to choose their turn and use cards strategically.

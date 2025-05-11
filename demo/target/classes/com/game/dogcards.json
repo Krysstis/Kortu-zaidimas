@@ -1,0 +1,72 @@
+[
+  {
+    "type": "damage",
+    "name": "Bark",
+    "value": 5
+  },
+  {
+    "type": "damage",
+    "name": "Bite",
+    "value": 10
+  },
+  {
+    "type": "damage",
+    "name": "Growl",
+    "value": 7
+  },
+  {
+    "type": "damage",
+    "name": "Slap",
+    "value": 3
+  },
+  {
+    "type": "damage",
+    "name": "Scruffing",
+    "value": 13
+  },
+  {
+    "type": "heal",
+    "name": "Cute Eyes",
+    "value": 5
+  },
+  {
+    "type": "heal",
+    "name": "Marking",
+    "value": 10
+  },
+  {
+    "type": "heal",
+    "name": "Drink Water",
+    "value": 7
+  },
+  {
+    "type": "heal",
+    "name": "Rub",
+    "value": 5
+  },
+  {
+    "type": "heal",
+    "name": "Sneeze",
+    "value": 3
+  },
+  {
+    "type": "steal",
+    "name": "Grim Reaper",
+    "value": 12
+  },
+  {
+    "type": "steal",
+    "name": "Proton Gun",
+    "value": 9
+  },
+  {
+    "type": "stun",
+    "name": "Blind Cat",
+    "value": 1
+  },
+  {
+    "type": "reflect",
+    "name": "Reverse Card",
+    "value": 1
+  }
+]
